@@ -1,0 +1,126 @@
+.container{
+	width: 1170px;
+	margin: 0 auto;
+}
+.d-block{
+	display: inline-block;
+	vertical-align: middle;
+
+}
+.box{
+	width: 570px;
+	background: #F2F2F2;
+	padding:10px;
+}
+.text{
+	width: 345px;
+
+}
+.image{
+	height: 130px;
+	vertical-align: top;
+	margin-right:40px;
+}
+.title{
+	margin-bottom:10px;
+}
+.box-wraper{
+	margin-top: 35px;
+}
+.logo{
+	width: 100px;
+	margin-left: 32px;
+	margin-top: 33px;
+
+}
+.navigation-li{
+	margin-left: 34px;
+	vertical-align: middle;
+	font-size: 22px;
+	margin-bottom: 20px;
+
+}
+.fb{
+	margin-left:400px;
+	margin-top: 75px;
+
+}
+.youtube{
+	margin-left: 70px;
+	margin-top: 75px;
+}
+
+}
+.d-block{
+	display: inline-block;
+}
+.navigation-li{
+	margin-right: 20px;
+}
+.date{
+	background:#3D58A6;
+	font-size:48px;
+	color:#fff;
+	padding: 8px;
+	margin-top:40px;
+	margin-left:30px;
+}
+.month{
+	margin-left:30px;
+	font-size: 22px;
+	color:#3D58A6;
+	margin-top:5px;
+}
+.article-p{
+	width: 925px;
+}
+.image{
+	vertical-align: top;
+	margin-right:30px;
+}
+.article-h3{
+	margin-left:30px;
+	margin-top:15px;
+	font-weight: bold;
+}
+.article{
+	margin-top:22px;
+	margin-left:30px;
+}
+.divider{
+	height: 30px;
+	width:2px;
+	background-color: #3D58A6;
+	margin:0 35px;
+
+}
+.footer-box{
+	margin-left:30px;
+	margin-top:30px;
+}
+.active{
+	color: red;
+}
+.map{
+	background:grey;
+}
+.map1{
+	margin-left:550px;
+	vertical-align: middle;
+}
+span{
+	color:#EE4036;
+	font-size: 24px;
+	}
+.article-p{
+	vertical-align: middle;
+}
+.contacto{
+	display: inline-block;
+	margin-top: 50px;
+	vertical-align: middle;
+}
+.headersu{
+	margin-top: 150px;
+	vertical-align: middle;
+}
